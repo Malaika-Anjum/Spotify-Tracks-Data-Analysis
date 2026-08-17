@@ -53,7 +53,6 @@ Spotify-Track-Analysis
 │   └── ...
 │
 ├── README.md
-└── requirements.txt
 ```
 
 ---
